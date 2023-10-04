@@ -1,2 +1,3 @@
-# dragItems
-Learn to use Drag and drop using ReactJS.
+# DragItems
+
+I made this project to learn how drag and drop work using ReactJS.
